@@ -1,3 +1,6 @@
+# Notes
+This version uses numberpicker 2.1.2. Previous versions throws exceptions when using with Flutter 3.10 
+
 # Flutter Html Editor - Enhanced
 [![pub package](https://img.shields.io/pub/v/html_editor_enhanced.svg)](https://pub.dev/packages/html_editor_enhanced)
 
